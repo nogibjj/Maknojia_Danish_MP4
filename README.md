@@ -1,11 +1,12 @@
-# Danish_Maknojia_Assignment1
+# Danish_Maknojia_MP4
 
-[![CI](https://github.com/nogibjj/Danish_Maknojia_Assignment1/actions/workflows/data.yml/badge.svg)](https://github.com/nogibjj/Danish_Maknojia_Assignment1/actions/workflows/data.yml)
+[![CICD](https://github.com/nogibjj/Maknojia_Danish_MP4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Maknojia_Danish_MP4/actions/workflows/cicd.yml)
+
 
 ## This project contains:
-- README.MD
-- REQUIREMENT.TXT: Has the versions for the library
-- Makefile: Automates python tasks
-- mainfile.py: Code function that adds x,y,z
-- test.py: Tests the function in the mainfile.py
-- .devcontainer: Has the .json & dockerfile
+Requirements
+    - Set up a Gitlab Actions workflow
+    - Test across at least 3 different Python versions
+
+## Working Solution
+![alt text](image.png)
