@@ -6,6 +6,7 @@
 ## This project contains:
 Requirements
     - Set up a Gitlab Actions workflow
+
     - Test across at least 3 different Python versions
 
 ## Working Solution
